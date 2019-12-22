@@ -10,7 +10,11 @@ Testing Newton's method (root-finding algorithm) in Python
 
 ## Example
 
-Example with function $y=5*x^2-10*x-7$:
+Example with function:
+
+```
+y = 5 * x^2 - 10 * x - 7
+```
 
 ![Example](/images/console.png)
 
