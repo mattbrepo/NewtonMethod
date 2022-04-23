@@ -15,6 +15,6 @@ Example with function:
 y = 5 * x^2 - 10 * x - 7
 ```
 
-![Example](/images/console.png)
+![Example](/images/console2.png)
 
 ![Plot](/images/google_plot.png)
