@@ -1,5 +1,5 @@
 # NewtonMethod
-Testing Newton's method (root-finding algorithm) in Python
+Testing Newton's method (root-finding algorithm) in Python.
 
 **Language: Python**
 
@@ -9,9 +9,9 @@ Testing Newton's method (root-finding algorithm) in Python
 [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) allows finding the roots (zeros) of a function. I had probably studied this back in school. Anyhow, I stumbled into it years later and decided to implement it in Python to test it out.
 
 ## Example
-Example with function:
+Example with the following function:
 
-$$ y = 5 * x^2 - 10 * x - 7 $$
+$$ y = 5 x^2 - 10 x - 7 $$
 
 ![Results](/images/console2.png)
 
