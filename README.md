@@ -6,7 +6,7 @@ Testing Newton's method (root-finding algorithm) in Python.
 **Start: 2012**
 
 ## Why
-[Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) allows finding the roots (zeros) of a function. I had probably studied this back in school. Anyhow, I stumbled into it years later and decided to implement it in Python to test it out.
+The [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) allows finding the roots (zeros) of a function. I had probably studied this back in school. Anyhow, I stumbled into it years later and decided to implement it in Python to test it out.
 
 ## Example
 Example with the following function:
